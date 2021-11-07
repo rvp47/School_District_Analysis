@@ -76,16 +76,11 @@ Bottom performing schools: ![bottom](https://user-images.githubusercontent.com/9
   ![scores_by_size original](https://user-images.githubusercontent.com/90656004/140653868-3e58cb8a-71a0-4b57-a17e-69b7b1dae936.PNG)
   
   Cleaned up data
-  - ![scores_by_size full table](https://user-images.githubusercontent.com/90656004/140652789-3b67e4b8-befd-46dd-a9fd-192c1d32141d.PNG)
   - ![scores_by_size](https://user-images.githubusercontent.com/90656004/140652591-d3775605-7861-4eae-81fb-a2c7e02541bc.png)
 
 - Scores by school type
   - Based on the cleaned up data, there was no difference between the original and cleaned up data for scored by school type.
 
-  Original data
-  ![scores_by_school_type original](https://user-images.githubusercontent.com/90656004/140653799-a63c97d9-c7c8-4115-a8d4-8ae4aa8f97d4.PNG)
-
-  Cleaned up data
   - ![scores_by_school_type](https://user-images.githubusercontent.com/90656004/140652598-c6d129cc-97bd-45a9-ba53-b765a4139464.png)
 
 ## Summary
