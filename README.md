@@ -45,10 +45,12 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 Replacing the scores did not affect Thomas High School’s performance relative to the other schools in the district.
 
 Original data
+
 Top performing schools: ![top_original](https://user-images.githubusercontent.com/90656004/140653593-065a7c47-b6e1-4aa1-bb00-f8a1009eab0c.PNG)
 Bottom performing schools: ![bottom_original](https://user-images.githubusercontent.com/90656004/140653594-ba76a82c-0853-4283-9291-be29c609f113.PNG)
 
 Cleaned up data
+
 Top performing schools: ![top](https://user-images.githubusercontent.com/90656004/140653533-96fd434d-a9f3-4151-ab55-91a5f560aee0.PNG)
 Bottom performing schools: ![bottom](https://user-images.githubusercontent.com/90656004/140653560-a741b33b-7ad8-4200-a0ba-c1f11a8bec6d.PNG)
 
