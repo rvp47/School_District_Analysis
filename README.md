@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-The school board found evidence of academic dishonesty for the math and reading grades for Thomas High School ninth graders. The purpose of this analyse is to understand how changing the data to replace nineth graders' math and reading scores affects how Thomas High School performances relative to other schools. This analysis compares the results of a previous school district analysis with unaltered scores to an updated school district analysis with changes to the math and reading scores for the ninth graders at Thoman High School.
+The school board found evidence of academic dishonesty for the math and reading grades for Thomas High School ninth graders. The purpose of this analydsis is to understand how changing the data to replace ninth graders' math and reading scores affects how Thomas High School performances relative to other schools. This analysis compares the results of a previous school district analysis with unaltered scores to an updated school district analysis with changes to the math and reading scores for the ninth graders at Thomas High School.
 
 The updated analysis includes the following:
 - District summary DataFrame
@@ -31,7 +31,7 @@ Cleaned up data
 ### School Summary
 How is the school summary affected?
 
-After cleaning up the data, Thomas High Schools saw a lower average math score, higher average reading score, lower % passing math, lower % passing reading, and lower % overall passing. However, the differences were very slight at less than a 1% increase or decrease.
+After cleaning up the data, Thomas High School saw a lower average math score, higher average reading score, lower % passing math, lower % passing reading, and lower % overall passing. However, the differences were very slight at less than a 1% increase or decrease.
 
 Original data
 ![school_summary_original](https://user-images.githubusercontent.com/90656004/140653485-2d562021-f2fd-424b-ac3e-3ed61a3a15fb.PNG)
@@ -39,7 +39,7 @@ Original data
 Cleaned up data
 ![school_summary](https://user-images.githubusercontent.com/90656004/140653399-6d9cfeee-b2b4-4cde-8fb7-69c887922b28.png)
 
-### Replacing ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools
+### Replacing ninth graders’ math and reading scores affects Thomas High School’s performance relative to the other schools
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Replacing the scores did not affect Thomas High School’s performance relative to the other schools in the district.
@@ -79,13 +79,13 @@ Bottom performing schools: ![bottom](https://user-images.githubusercontent.com/9
   - ![scores_by_size](https://user-images.githubusercontent.com/90656004/140652591-d3775605-7861-4eae-81fb-a2c7e02541bc.png)
 
 - Scores by school type
-  - Based on the cleaned up data, there was no difference between the original and cleaned up data for scored by school type.
+  - Based on the cleaned up data, there was no difference between the original and cleaned up data for scores by school type.
 
   - ![scores_by_school_type](https://user-images.githubusercontent.com/90656004/140652598-c6d129cc-97bd-45a9-ba53-b765a4139464.png)
 
 ## Summary
 - The most differences between the original and altered data were seen in the effects on the district summary and school summary. Both summaries showed lower average math scores, lower % passing math, lower % passing reading, and lower % overall passing. As mentioned, the results from the changed data were less than 1% higher or lower than the original data results.
 - While there was no difference in the school rankings, it is important to note that all of the top performing schools were charter schools whereas all of the bottom performing schools were district schools.
-- For score by school spending, the cleaned up data produced the same outcomes as the original data. An interesting observation that the more money spent per student resulted in lower scores, which means they have an inverse relationship. The schools who spent less than $584 per student saw the highest scores in all categories: average math score, average reading school, % passing math, % passing reading, and % overall passing. 
+- For score by school spending, the cleaned up data produced the same outcomes as the original data. An interesting observation is that there is an inverse relationship between money spent per student and scores; the more money spent per student, the lower the scores. The schools who spent less than $584 per student saw the highest scores in all categories: average math score, average reading school, % passing math, % passing reading, and % overall passing. 
 - Based on score by size, the results were the same between the original data and changed data. Thomas High School had 1,635 students, so it was classified as a medium-sized school (1,000-2,000 students). However, an important observation is that Large schools' scores were drastically lower than those of both small and medium schools. This could be due to a variety of factors, including understaffing and overcrowded classrooms. Further analysis would be required to make such an assertion though. 
-- There were no changes in the scores by school type based on the changed data, but both data results did reveal that charter schools performed better than district schools in all aspects: average math score, average reading school, % passing math, % passing reading, and % overall passing. The stark contrast between the charter schools having a 90% overall passing rate while the district schools having a 54% overall passing rate is significant.
+- There were no changes in the scores by school type based on the changed data, but both data results did reveal that charter schools performed better than district schools in all aspects: average math score, average reading school, % passing math, % passing reading, and % overall passing. The stark contrast between the charter schools having a 90% overall passing rate and the district schools having a 54% overall passing rate is significant.
