@@ -32,13 +32,15 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 - Math and reading scores by grade (average math score for each grade level from each school, and average reading score for each grade level from each school)
 
 - Scores by school spending
-  - ![district_summary](https://user-images.githubusercontent.com/90656004/139881479-f7143aa2-f011-49b9-821d-e1073df9309a.png)
+  - ![scores_by_spending full table](https://user-images.githubusercontent.com/90656004/140652645-5ef23bed-63f5-4a27-bb32-9b58d4da85d9.PNG)
+  - ![scores_by_spending](https://user-images.githubusercontent.com/90656004/140652575-be8e3b1b-c37d-4344-a454-a917e8e266b7.png)
 
 - Scores by school size
-  - ![district_summary](https://user-images.githubusercontent.com/90656004/139881592-a761e489-86c3-4c43-bc3e-c2f949f90238.png)
+  - ![scores_by_size full table](https://user-images.githubusercontent.com/90656004/140652789-3b67e4b8-befd-46dd-a9fd-192c1d32141d.PNG)
+  - ![scores_by_size](https://user-images.githubusercontent.com/90656004/140652591-d3775605-7861-4eae-81fb-a2c7e02541bc.png)
 
 - Scores by school type
-  - ![scores_by_school_type](https://user-images.githubusercontent.com/90656004/139881760-3c2691a2-8c28-411e-9899-2dd8635ca49f.png)
+  - ![scores_by_school_type](https://user-images.githubusercontent.com/90656004/140652598-c6d129cc-97bd-45a9-ba53-b765a4139464.png)
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
